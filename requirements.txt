@@ -1,0 +1,9 @@
+
+Please install it's:
+-------------------
+
+- Python 3.5+
+- NLTK
+- NumPy
+- textblob
+
