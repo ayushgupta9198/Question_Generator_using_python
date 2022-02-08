@@ -1,4 +1,4 @@
-# Question_Generator
+# Question_Generator_using_python
 
 **Idea: 
 **
